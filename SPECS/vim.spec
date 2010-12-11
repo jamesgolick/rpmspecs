@@ -1,5 +1,5 @@
 Summary: vim
-Name: vim
+Name: vim-fuckyoucentos
 Version: 7.3
 Release: fetlife1
 Source0: vim-7.3.tar.bz2
